@@ -1,0 +1,13 @@
+C:\Users\FORZ\source\repos\Video Cutter in 5 seconds\Video Cutter in 5 seconds\bin\Debug\Video Cutter in 5 seconds.exe.config
+C:\Users\FORZ\source\repos\Video Cutter in 5 seconds\Video Cutter in 5 seconds\bin\Debug\Video Cutter in 5 seconds.exe
+C:\Users\FORZ\source\repos\Video Cutter in 5 seconds\Video Cutter in 5 seconds\bin\Debug\Video Cutter in 5 seconds.pdb
+C:\Users\FORZ\source\repos\Video Cutter in 5 seconds\Video Cutter in 5 seconds\obj\Debug\Video Cutter in 5 seconds.csproj.AssemblyReference.cache
+C:\Users\FORZ\source\repos\Video Cutter in 5 seconds\Video Cutter in 5 seconds\obj\Debug\Video_Cutter_in_5_seconds.Form1.resources
+C:\Users\FORZ\source\repos\Video Cutter in 5 seconds\Video Cutter in 5 seconds\obj\Debug\Video_Cutter_in_5_seconds.Properties.Resources.resources
+C:\Users\FORZ\source\repos\Video Cutter in 5 seconds\Video Cutter in 5 seconds\obj\Debug\Video Cutter in 5 seconds.csproj.GenerateResource.cache
+C:\Users\FORZ\source\repos\Video Cutter in 5 seconds\Video Cutter in 5 seconds\obj\Debug\Video Cutter in 5 seconds.csproj.CoreCompileInputs.cache
+C:\Users\FORZ\source\repos\Video Cutter in 5 seconds\Video Cutter in 5 seconds\obj\Debug\Video Cutter in 5 seconds.exe
+C:\Users\FORZ\source\repos\Video Cutter in 5 seconds\Video Cutter in 5 seconds\obj\Debug\Video Cutter in 5 seconds.pdb
+C:\Users\FORZ\source\repos\Video Cutter in 5 seconds\Video Cutter in 5 seconds\bin\Debug\System.CodeDom.dll
+C:\Users\FORZ\source\repos\Video Cutter in 5 seconds\Video Cutter in 5 seconds\bin\Debug\System.CodeDom.xml
+C:\Users\FORZ\source\repos\Video Cutter in 5 seconds\Video Cutter in 5 seconds\obj\Debug\Video Cutter in 5 seconds.csproj.CopyComplete
